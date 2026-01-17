@@ -1,2 +1,2 @@
-a python program 
+A python program 
 by: Eke Vera Esther 24/14978 software engineering 
